@@ -34,6 +34,7 @@ auth-na.hismarttv.com
 az43064.vo.msecnd.net
 bdcore-apr-lb.bda.ndmdhs.com
 bpu.samsungelectronics.com
+br.ibs.lgappstv.com
 bravia.dl.playstation.net
 call.me.sel.sony.com
 cdn.hbbtv.smartclip.net
@@ -95,6 +96,7 @@ jp.rdx2.lgtvsdp.com
 kpu.samsungelectronics.com
 legacyportal.nettvservices.com
 lgad.cjpowercast.com.edgesuite.net
+lgtvsdp.com
 liberty.logs.roku.com
 log.internetat.tv
 log-ingestion.samsungacr.com
