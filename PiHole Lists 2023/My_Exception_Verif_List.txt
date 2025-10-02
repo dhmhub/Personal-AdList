@@ -8,11 +8,14 @@ b-graph-fallback.facebook.com
 brazucaplay.forumeiros.com
 fls-na.amazon.com
 graph.facebook.com
+kali.download
 licensing.bitmovin.com
 msh.amazon.com
 noip.com
 sp.pluto.tv
 t.co
+translate.google.com
 unagi-na.amazon.com
 vpn-dhm.ddns.net
 web.facebook.com
+www.noip.com
